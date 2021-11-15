@@ -1,0 +1,29 @@
+.mobile_navbar{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    
+}
+.mobile_logo{
+    margin: 0 20px;
+}
+.room{
+    position: relative;
+    left: 80px;
+}
+
+
+.mobile_navbar_open{
+    background-color: white;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    min-width: 375px;
+}
+.mobile_nav_item{
+    text-decoration: none;
+    color: darkgray;
+    font-size: 12px;
+}

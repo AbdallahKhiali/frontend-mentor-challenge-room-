@@ -1,0 +1,76 @@
+
+.hero_mobile{
+    min-width: 375px;
+    overflow-x: hidden;
+}
+.mobile_title_header {
+    padding: 05px 20px;
+    width: 80%;
+}
+
+
+.mobile_title_description{
+    font-weight: 500;
+    font-size: 12px;
+    color: darkgray;
+    line-height: 18px;
+    padding: 10px 20px;
+    width: 80%;
+
+}
+
+.mobile_shop_btn{
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 2px;
+    width: fit-content;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 10px 0;
+    padding: 10px 20px;
+
+}
+
+.mobile_shop_btn>img{
+    margin: 0 15px;
+    width: 40px;
+
+}
+
+
+
+
+
+
+.mobile_about{
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px 0;
+}
+
+.mobile_about_title{
+    text-transform: uppercase;
+    padding: 10px 20px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.mobile_about_description{
+    font-size: 12px;
+    color: darkgray;
+    padding: 0 20px;
+    width: 80%;
+    line-height: 20px;
+}
+
+.mobile_carousel_switcher{
+    position: relative;
+    bottom: 30px;
+    left: 225px;
+
+}
